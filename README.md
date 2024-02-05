@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align="center">
 Hello, I'm Mahdi Bouakline.
 <h1>
