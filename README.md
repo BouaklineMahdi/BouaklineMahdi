@@ -12,7 +12,7 @@ Hello, I'm Mahdi Bouakline.
 - I am double minoring in Political Science and Economics.
 
 ### About me:
-I am passionate about real life applications of tehnology, in the fields of healthcare, mechatronics and more specifically, backend development.
+I am passionate about real life applications of technology, in the fields of healthcare, mechatronics and more specifically, backend development.
 
 ### Contact Information:
 - :email: **Email:** My email address is bouaklinemahdi@gmail.com.
